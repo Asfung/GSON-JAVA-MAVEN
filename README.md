@@ -10,7 +10,7 @@ Add GSON Dependencies On Your Dependencies
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.10.1</version>
-    </dependency>
+  </dependency>
 ```
 
 #Or 
