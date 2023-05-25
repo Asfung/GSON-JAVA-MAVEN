@@ -2,7 +2,7 @@
 
 GSON is Open-Source Library, This Library Used For Java Object To JSON.
 
-1.Manual Setup
+1. Manual Setup
 Add GSON Dependencies On Your Dependencies
 ```xml
   <dependency>
