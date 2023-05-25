@@ -2,7 +2,7 @@
 
 GSON is Open-Source Library, This Library Used For Java Object To JSON.
 
-#Manual Setup
+1.Manual Setup
 Add GSON Dependencies On Your Dependencies
 ```xml
   <dependency>
@@ -12,7 +12,7 @@ Add GSON Dependencies On Your Dependencies
   </dependency>
 ```
 
-#Or 
+2. Or 
 first Needed Git VC
 
 ```
