@@ -6,13 +6,11 @@ Interisting.......
 #Manual Setup
 Add GSON Dependencies On Your Dependencies
 ```
-function test() {
   <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.10.1</version>
     </dependency>
-}
 ```
 
 #Or 
